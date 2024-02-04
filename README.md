@@ -1,4 +1,4 @@
 # Git-Demo
 First Git
 <br>
-Author - Kalash
+Author - Kalash Sharma
